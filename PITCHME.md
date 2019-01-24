@@ -19,15 +19,15 @@
 <!-- 
 {
  "data": {
-  "labels": ["January"," February"," March"," April"," May"," June"," July"],
+  "labels": ["Sprint 1"," Sprint 2","Sprint 3","Sprint 4","Sprint 5","Sprint 6","Sprint 7"],
   "datasets": [
    {
-    "data":[65,59,80,81,56,55,40],
-    "label":"My first dataset","backgroundColor":"rgba(20,220,220,.8)"
+    "data":[65,59,60,61,56,55,40],
+    "label":"Story points","backgroundColor":"rgba(20,220,220,.8)"
    },
    {
-    "data":[28,48,40,19,86,27,90],
-    "label":"My second dataset","backgroundColor":"rgba(220,120,120,.8)"
+    "data":[8,38,40,41,36,27,10],
+    "label":"MoSCoW points","backgroundColor":"rgba(220,120,120,.8)"
    }
   ]
  }, 
