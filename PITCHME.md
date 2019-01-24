@@ -84,14 +84,14 @@
   "datasets": [
    {
     "data":[0,8,58,60,61,56,47,30,0,0,0],
-    "label":"Epic A","backgroundColor":"rgba(220,120,120,.8)"
+    "label":"Epic A","backgroundColor":"rgba(120,120,120,.8)"
    },
    {
-    "data":[0,0,0,0,0,0,0,8,58,60],
-    "label":"Epic B","backgroundColor":"rgba(120,120,120,.8)"
+    "data":[0,0,0,0,0,8,58,60,62,61,60],
+    "label":"Epic B","backgroundColor":"rgba(220,120,120,.8)"
    },
    {
-    "data":[0,61,59,60,61,58,59,60,58,60,61],
+    "data":[0,61,59,60,61,58,59,60,58,60,59],
     "label":"Story points","backgroundColor":"rgba(20,220,220,.8)"
    }
   ]
