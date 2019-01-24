@@ -2,9 +2,9 @@
 
 ---
 
-## Add Some Slide Candy
+## Introducing Rob
 
-![](assets/img/presentation.png)
+![](assets/img/myAvatar.png)
 
 ---
 @title[Customize Slide Layout]
