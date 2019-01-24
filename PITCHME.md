@@ -4,7 +4,7 @@
 
 ## Introducing Rob
 
-![](assets/img/myAvatar.png)
+![](assets/images/myAvatar.png)
 
 ---
 @title[Customize Slide Layout]
