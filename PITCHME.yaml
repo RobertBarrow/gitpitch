@@ -1,3 +1,6 @@
+# Plug-ins & configuration
+charts : true
+
 # Look-and-Feel
 logo : assets/images/myAvatar.png
 theme : night
