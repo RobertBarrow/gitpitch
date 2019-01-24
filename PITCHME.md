@@ -14,7 +14,7 @@
 @snapend
 
 ---
-## Velocity chart
+### Velocity chart
 <canvas data-chart="line">
 <!-- 
 {
@@ -33,7 +33,7 @@
 </canvas>
 
 ---
-## Value based velocity
+### Value based velocity
 <canvas data-chart="line">
 <!-- 
 {
@@ -52,7 +52,7 @@
 </canvas>
 
 ---
-## Combined = iceburg effect
+### The "iceburg effect"
 <canvas data-chart="line">
 <!-- 
 {
