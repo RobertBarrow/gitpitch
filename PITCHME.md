@@ -22,14 +22,14 @@
   "labels": ["Sprint 0","Sprint 1"," Sprint 2","Sprint 3","Sprint 4","Sprint 5","Sprint 6","Sprint 7","Sprint 8","Sprint 9","Sprint 10"],
   "datasets": [
    {
-    "data":[0,59,61,60,61,58,59,60,58,60,59],
-    "label":"Story points","backgroundColor":"rgba(20,220,220,.8)",
-    "fill": true
-   },
-   {
     "data":[0,29.5,40,45,48.2,49.83,51.1,52.25,52.88,53.6,54.09],
     "label":"Average Velocity","backgroundColor":"rgba(220,120,120,.8)",
     "fill": false
+   },
+   {
+    "data":[0,59,61,60,61,58,59,60,58,60,59],
+    "label":"Story points","backgroundColor":"rgba(20,220,220,.8)",
+    "fill": true
    }
   ]
  }, 
