@@ -22,12 +22,12 @@
   "labels": ["Sprint 1"," Sprint 2","Sprint 3","Sprint 4","Sprint 5","Sprint 6","Sprint 7"],
   "datasets": [
    {
-    "data":[61,59,60,61,56,55,60],
-    "label":"Story points","backgroundColor":"rgba(20,220,220,.8)"
-   },
-   {
     "data":[8,58,60,61,56,47,30],
     "label":"MoSCoW points","backgroundColor":"rgba(220,120,120,.8)"
+   },
+   {
+    "data":[61,59,60,61,58,59,60],
+    "label":"Story points","backgroundColor":"rgba(20,220,220,.8)"
    }
   ]
  }, 
