@@ -14,7 +14,7 @@
 @snapend
 
 ---
-# Story points
+## Velocity chart
 <canvas data-chart="line">
 <!-- 
 {
@@ -33,7 +33,7 @@
 </canvas>
 
 ---
-# MoSCow points
+## Value based velocity
 <canvas data-chart="line">
 <!-- 
 {
@@ -52,7 +52,7 @@
 </canvas>
 
 ---
-# Combined
+## Combined = iceburg effect
 <canvas data-chart="line">
 <!-- 
 {
