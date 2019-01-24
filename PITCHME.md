@@ -23,7 +23,13 @@
   "datasets": [
    {
     "data":[0,59,61,60,61,58,59,60,58,60,59],
-    "label":"Story points","backgroundColor":"rgba(20,220,220,.8)"
+    "label":"Story points","backgroundColor":"rgba(20,220,220,.8)",
+    "fill": true
+   },
+   {
+    "data":[0,29.5,40,45,48.2,49.83,51.1,52.25,52.88,53.6,54.09],
+    "label":"Average Velocity","backgroundColor":"rgba(220,120,120,.8)",
+    "fill": false
    }
   ]
  }, 
