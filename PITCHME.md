@@ -4,19 +4,17 @@
 @title[Introducing Rob]
 ## Introducing Rob
 
-@snap[north span-90]
-![](assets/images/myAvatar.png)
-@spapend
+![Rob](assets/images/myAvatar.png)
 
-@snap[west span-40 fragment]
+@snap[west span-20 fragment]
 @quote[Rob knows Agile](Agile Transformation Manager)
 @snapend
 
-@snap[east span-40 fragment]
+@snap[east span-20 fragment]
 @quote[Rob knows JIRA](JIRA Administrator)
 @snapend
 
-@snap[south span-40 fragment]
+@snap[south span-20 fragment]
 @quote[Rob knows Delivery](Service Delivery Manager)
 @snapend
 
