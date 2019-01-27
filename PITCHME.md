@@ -116,7 +116,7 @@
 ---
 @title[Scrum Events]
 @snap[north-west]
-Scrum Events
+## Scrum Events
 @snapend
 
 @snap[west span-55]
