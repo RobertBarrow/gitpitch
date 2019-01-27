@@ -13,19 +13,19 @@
 ---?image=assets/images/myAvatar.png&size=9% auto
 @title[Rob knows...]
 
-@snap[west span-30 fragment]
+@snap[west span-60 fragment]
 @quote[Delivering software](28 years)
 @snapend
 
-@snap[north span-30 fragment]
+@snap[north span-60 fragment]
 @quote[Using Scrum](8 years)
 @snapend
 
-@snap[east span-30 fragment]
+@snap[east span-60 fragment]
 @quote[Coaching Agile transformation](5 years)
 @snapend
 
-@snap[south span-30 fragment]
+@snap[south span-60 fragment]
 @quote[Product management](8 years)
 @snapend
 
@@ -51,7 +51,7 @@
 # Agile Metrics
 @snapend
 
-@snap[west span-55]
+@snap[west span-100]
 @ul[spaced text]
 - Burndown ~ measuring progress
 - Velocity ~ measuring predictablity
