@@ -7,27 +7,26 @@
 ![Rob](assets/images/myAvatar.png)
 
 @snap[south span-100 fragment]
-@size[0.5em]So... what does Rob know?
+@size[0.5em]So... what does Rob bring to the table?
 @snapend
 
----
+---?image=assets/images/myAvatar.png&size=80% auto
 @title[Rob knows...]
-### Rob knows ...
 
 @snap[west span-40 fragment]
-@quote[Software](27+ years)
+@quote[Delivering software](27+ years)
 @snapend
 
 @snap[north span-40 fragment]
-@quote[Agile Coaching & Transformation](5+ years)
+@quote[Using Scrum](8+ years)
 @snapend
 
 @snap[east span-40 fragment]
-@quote[Product / Service Delivery Manager](8+ years)
+@quote[Coaching Agile Transformation](5+ years)
 @snapend
 
 @snap[south span-40 fragment]
-@quote[Scrum Master](1 year)
+@quote[Product / Service Management](8+ years)
 @snapend
 
 ---
