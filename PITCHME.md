@@ -385,8 +385,18 @@
     <td>At the start of every Sprint</td>
     <td>2-4 hours *</td>
   </tr>
- </table>
-#### Attendees
+  <tr>
+    <td>Attendees</td>
+  </tr>
+  <tr>
+    <td>
+@ul[spaced text](false)
+- Product Owner
+- Scrum Team
+@ulend
+</td>
+  </tr>
+</table>
 @ul[spaced text](false)
 - Product Owner
 - Scrum Team
