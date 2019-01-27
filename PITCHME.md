@@ -158,13 +158,8 @@
     <td>At the end of each Sprint *</td>
     <td>1-2 hours *</td>
   </tr>
-   <tr class="fragment">
-    <td>Backlog Refinement</td>
-    <td>Every day *</td>
-    <td>As required *</td>
-  </tr>
 </table>
 
 @snap[south span-100]
-@size[0.5em](* Based on a two-week Sprint ~ but your mileage may vary!)
+@size[0.5em](* Based on a two-week Sprint. Note: your mileage may vary!)
 @snapend
