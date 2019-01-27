@@ -449,22 +449,10 @@
 @title[Team Retrospective event]
 @snap[north-west span-120]
 ### Team retrospective
-<table>
-  <tr>
-    <th>Facilitator</th>
-    <th>Occurs</th>
-    <th>Duration</th>
-  </tr>
-  <tr>
-    <td>Scrum Master</td>
-    <td>At the end of any Sprint</td>
-    <td>1-2 hours</td>
-  </tr>
- </table>
+#### Facilitator
+Scrum Master
 #### Attendees
-@ul[spaced text](false)
-- Scrum Team
-@ulend
+Scrum Team
 @snapend
 
 ---
