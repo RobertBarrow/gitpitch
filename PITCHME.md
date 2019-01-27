@@ -7,12 +7,38 @@
 ![](assets/images/myAvatar.png)
 
 ---
-@title[Biggest risk in Software Development]
-### Biggest risk in software development
+@title[Biggest challenges in Software Development]
+@snap[north-west]
+### Biggest challenges in software development
+@snapend
+
+@snap[west span-55]
+@ul[spaced text]
+- Time to market
+- Competition (global)
+- Return on investment
+- Risk mitigation
+- Predictability
+@ulend
+@snapend
 
 ---
 @title[Agile Metrics]
+@snap[north-west]
 # Agile Metrics
+@snapend
+
+@snap[west span-55]
+@ul[spaced text]
+- Burndown 
+- Velocity
+- Cumulative flow
+@ulend
+@snapend
+
+---
+@title[Agile Metrics]
+# Burndown charts
 
 ---
 @title[Sprint Burndown chart]
@@ -26,7 +52,29 @@
   "datasets": [
    {
     "data":[60,53,47,39,33,27,22,15,9,2],
-    "label":"Story points remaining","backgroundColor":"rgba(220,120,120,.8)",
+    "label":"Story points remaining","backgroundColor":"rgba(20,120,120,.8)",
+    "fill": true
+   }
+  ]
+ }, 
+ "options": { "responsive": "true" }
+}
+-->
+</canvas>
+
+---
+@title[Epic Burndown chart]
+## Epic Burndown chart
+
+<canvas data-chart="line">
+<!-- 
+{
+ "data": {
+  "labels": ["Sprint 1","Sprint 2","Sprint 3","Sprint 4","Sprint 5","Sprint 6","Sprint 7","Sprint 8","Sprint 9","Sprint 10"],
+  "datasets": [
+   {
+    "data":[307,247,194,147,108,75,48,26,11,2],
+    "label":"Story points remaining","backgroundColor":"rgba(20,220,220,.8)",
     "fill": true
    }
   ]
@@ -274,8 +322,9 @@
     <td>2-4 hours *</td>
   </tr>
  </table>
- ### Attendees
+
 @snap[west span-55]
+Attendees
 @ul[spaced text]
 - Product Owner
 - Scrum Master
@@ -298,8 +347,9 @@
     <td>15 minutes *</td>
   </tr>
  </table>
- ### Attendees
+
 @snap[west span-55]
+Attendees
 @ul[spaced text]
 - Scrum Team
 - *Scrum Master (optional)*
@@ -321,8 +371,9 @@
     <td>1-2 hours</td>
   </tr>
  </table>
- ### Attendees
+
 @snap[west span-55]
+Attendees
 @ul[spaced text]
 - Stakeholders
 - Product Owner
@@ -346,8 +397,9 @@
     <td>1-2 hours</td>
   </tr>
  </table>
- ### Attendees
+
 @snap[west span-55]
+Attendees
 @ul[spaced text]
 - Scrum Team
 - Scrum Master
@@ -369,8 +421,9 @@
     <td>As required</td>
   </tr>
  </table>
- ### Attendees
+
 @snap[west span-55]
+Attendees
 @ul[spaced text]
 - Product Owner
 - Scrum Master
