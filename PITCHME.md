@@ -15,15 +15,19 @@
 ## Rob knows ...
 
 @snap[west span-20 fragment]
-@quote[Agile](Agile Coaching & Transformation ~ 5+ years)
+@quote[Software](27+ years)
 @snapend
 
-@snap[west span-50 fragment]
-@quote[JIRA](JIRA Administrator ~ 3+ years)
+@snap[north span-20 fragment]
+@quote[Agile Coaching & Transformation](5+ years)
 @snapend
 
-@snap[west span-80 fragment]
-@quote[Delivery](Product / Service Delivery Manager ~ 8+ years)
+@snap[east span-20 fragment]
+@quote[Product / Service Delivery Manager](8+ years)
+@snapend
+
+@snap[south span-20 fragment]
+@quote[Scrum Master](1 year)
 @snapend
 
 ---
