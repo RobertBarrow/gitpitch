@@ -172,17 +172,17 @@
   "datasets": [
    {
     "data":[2,4,6,8,10,12,14,16,18,20],
-    "label":"High watermark","backgroundColor":"rgba(220,120,120,.8)",
+    "label":"High watermark","backgroundColor":"rgba(80,200,120,0.8)",
     "fill": false
    },
    {
     "data":[0,0,0,0,0,0,0,0,0,0,0],
-    "label":"Average","backgroundColor":"rgba(120,120,120,.8)",
+    "label":"Average","backgroundColor":"rgba(120,120,120,0.8)",
     "fill": false
    },
    {
     "data":[-1,-2,-3,-4,-5,-6,-7,-8,-9,-10],
-    "label":"Low watermark","backgroundColor":"rgba(20,220,220,.8)",
+    "label":"Low watermark","backgroundColor":"rgba(255,36,0,0.8)",
     "fill": true
    }
   ]
