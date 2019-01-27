@@ -10,22 +10,22 @@
 @size[0.5em]So... what does Rob bring to the table?
 @snapend
 
----?image=assets/images/myAvatar.png&size=9% auto
+---
 @title[Rob knows...]
 
-@snap[west span-60 fragment]
+@snap[west span-50 fragment]
 @quote[Delivering software](28 years)
 @snapend
 
-@snap[north span-60 fragment]
+@snap[north span-80 fragment]
 @quote[Using Scrum](8 years)
 @snapend
 
-@snap[east span-60 fragment]
+@snap[east span-50 fragment]
 @quote[Coaching Agile transformation](5 years)
 @snapend
 
-@snap[south span-60 fragment]
+@snap[south span-80 fragment]
 @quote[Product management](8 years)
 @snapend
 
