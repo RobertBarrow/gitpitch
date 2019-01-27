@@ -15,6 +15,28 @@
 # Agile Metrics
 
 ---
+@title[Burndown chart]
+## Burndown chart
+
+<canvas data-chart="line">
+<!-- 
+{
+ "data": {
+  "labels": ["Day 1","Day 2","Day 3","Day 4","Day 5","Day 6","Day 7","Day 8","Day 9","Day 10"],
+  "datasets": [
+   {
+    "data":[60,53,47,39,33,27,22,15,9,2],
+    "label":"Story points","backgroundColor":"rgba(20,220,220,.8)",
+    "fill": true
+   }
+  ]
+ }, 
+ "options": { "responsive": "true" }
+}
+-->
+</canvas>
+
+---
 @title[Effort based velocity]
 ## Velocity 
 
