@@ -131,7 +131,7 @@
 
 ---
 @title[Scrum Event Schedule]
-@snap[north]
+@snap[north span-80]
 <table>
   <tr>
     <th>Event</th>
