@@ -6,16 +6,24 @@
 
 ![Rob](assets/images/myAvatar.png)
 
+@snap[south span-100 fragment]
+@size[0.5em](High tide:*61*, Average:*59*, Low tide:*58*)
+@snapend
+
+---
+@title[Rob knows...]
+## Rob knows ...
+
 @snap[west span-20 fragment]
-@quote[Rob knows Agile](Agile Transformation Manager)
+@quote[Agile](Agile Coaching & Transformation ~ 5+ years)
 @snapend
 
-@snap[east span-20 fragment]
-@quote[Rob knows JIRA](JIRA Administrator)
+@snap[west span-50 fragment]
+@quote[JIRA](JIRA Administrator ~ 3+ years)
 @snapend
 
-@snap[south span-20 fragment]
-@quote[Rob knows Delivery](Service Delivery Manager)
+@snap[west span-80 fragment]
+@quote[Delivery](Product / Service Delivery Manager ~ 8+ years)
 @snapend
 
 ---
