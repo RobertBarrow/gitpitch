@@ -15,8 +15,8 @@
 # Agile Metrics
 
 ---
-@title[Burndown chart]
-## Burndown chart
+@title[Sprint Burndown chart]
+## Sprint Burndown chart
 
 <canvas data-chart="line">
 <!-- 
@@ -26,7 +26,7 @@
   "datasets": [
    {
     "data":[60,53,47,39,33,27,22,15,9,2],
-    "label":"Story points","backgroundColor":"rgba(20,220,220,.8)",
+    "label":"Story points remaining","backgroundColor":"rgba(220,120,120,.8)",
     "fill": true
    }
   ]
@@ -104,6 +104,28 @@
    {
     "data":[0,59,61,60,61,58,59,60,58,60,59],
     "label":"Story points","backgroundColor":"rgba(20,220,220,.8)",
+    "fill": true
+   }
+  ]
+ }, 
+ "options": { "responsive": "true" }
+}
+-->
+</canvas>
+
+---
+@title[Epic Burndown chart]
+## Epic Burndown chart
+
+<canvas data-chart="line">
+<!-- 
+{
+ "data": {
+  "labels": ["Sprint 1","Sprint 2","Sprint 3","Sprint 4","Sprint 5","Sprint 6","Sprint 7","Sprint 8","Sprint 9","Sprint 10"],
+  "datasets": [
+   {
+    "data":[307,247,194,147,108,75,48,26,11,2],
+    "label":"Story points remaining","backgroundColor":"rgba(20,220,220,.8)",
     "fill": true
    }
   ]
