@@ -1,32 +1,30 @@
 # Let's Get Started
 
----
+---?image=assets/images/myAvatar.png&size=50% auto
 @title[Introducing Rob]
 ## Introducing Rob
-
-![Rob](assets/images/myAvatar.png)
 
 @snap[south span-100 fragment]
 @size[0.5em]So... what does Rob bring to the table?
 @snapend
 
----?image=assets/images/myAvatar.png&size=10% auto
+---?image=assets/images/myAvatar.png&size=9% auto
 @title[Rob knows...]
 
 @snap[west span-30 fragment]
-@quote[Delivering software](27 years+)
+@quote[Delivering software](28 years)
 @snapend
 
 @snap[north span-30 fragment]
-@quote[Using Scrum](8 years+)
+@quote[Using Scrum](8 years)
 @snapend
 
 @snap[east span-30 fragment]
-@quote[Coaching Agile Transformation](5 years+)
+@quote[Coaching Agile transformation](5 years)
 @snapend
 
 @snap[south span-30 fragment]
-@quote[Product & Service Management](8 years+)
+@quote[Product management](8 years)
 @snapend
 
 ---
