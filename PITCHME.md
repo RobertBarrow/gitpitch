@@ -13,20 +13,20 @@
 ---
 @title[Rob knows...]
 
-@snap[west span-50 fragment]
-@quote[Delivering software](28 years)
+@snap[west span-80 fragment]
+@quote[Delivering working software](28 years)
 @snapend
 
-@snap[north span-80 fragment]
-@quote[Using Scrum](8 years)
+@snap[north span-100 fragment]
+@quote[Using Lean / Agile ~ inc. Scrum](8 years)
 @snapend
 
 @snap[east span-50 fragment]
 @quote[Coaching Agile transformation](5 years)
 @snapend
 
-@snap[south span-80 fragment]
-@quote[Product management](8 years)
+@snap[south span-100 fragment]
+@quote[Product & service management](8 years)
 @snapend
 
 ---
