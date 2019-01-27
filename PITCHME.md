@@ -386,8 +386,6 @@
     <td>2-4 hours *</td>
   </tr>
  </table>
-
-@snap[west]
 @ul[spaced text](false)
 - Product Owner
 - Scrum Master
@@ -411,8 +409,6 @@
     <td>15 minutes *</td>
   </tr>
  </table>
-
-@snap[west span-55]
 @ul[spaced text](false)
 - Scrum Team
 - Scrum Master (optional)
@@ -435,8 +431,6 @@
     <td>1-2 hours</td>
   </tr>
  </table>
-
-@snap[west]
 @ul[spaced text](false)
 - Stakeholders
 - Product Owner
@@ -461,8 +455,6 @@
     <td>1-2 hours</td>
   </tr>
  </table>
-
-@snap[west]
 @ul[spaced text](false)
 - Scrum Team
 - Scrum Master
@@ -485,8 +477,6 @@
     <td>As required</td>
   </tr>
  </table>
-
-@snap[west span-55]
 @ul[spaced text](false)
 - Product Owner
 - Scrum Master
