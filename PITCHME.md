@@ -376,19 +376,18 @@
 ### Sprint planning
 <table>
   <tr>
-    <th>Event</th>
+    <th>Facilitator</th>
     <th>Occurs</th>
     <th>Duration</th>
   </tr>
   <tr>
-    <td>Sprint Planning</td>
+    <td>Scrum master</td>
     <td>At the start of every Sprint</td>
     <td>2-4 hours *</td>
   </tr>
  </table>
 @ul[spaced text](false)
 - Product Owner
-- Scrum Master
 - Scrum Team
 @ulend
 @snapend
@@ -399,19 +398,18 @@
 ### Daily stand-up
 <table>
   <tr>
-    <th>Event</th>
+    <th>Facilitator</th>
     <th>Occurs</th>
     <th>Duration</th>
   </tr>
   <tr>
-    <td>Daily Stand-up</td>
+    <td>Scrum Master (optional)</td>
     <td>Every day</td>
     <td>15 minutes *</td>
   </tr>
  </table>
 @ul[spaced text](false)
 - Scrum Team
-- Scrum Master (optional)
 @ulend
 @snapend
 
@@ -421,19 +419,18 @@
 ### Sprint review
 <table>
   <tr>
-    <th>Event</th>
+    <th>Facilitator</th>
     <th>Occurs</th>
     <th>Duration</th>
   </tr>
   <tr>
-    <td>Sprint Review</td>
+    <td>Product Owner</td>
     <td>At the end of every Sprint</td>
     <td>1-2 hours</td>
   </tr>
  </table>
 @ul[spaced text](false)
 - Stakeholders
-- Product Owner
 - Scrum Team
 - Scrum Master
 @ulend
@@ -445,19 +442,18 @@
 ### Team retrospective
 <table>
   <tr>
-    <th>Event</th>
+    <th>Facilitator</th>
     <th>Occurs</th>
     <th>Duration</th>
   </tr>
   <tr>
-    <td>Team Retrospective</td>
+    <td>Scrum Master</td>
     <td>At the end of any Sprint</td>
     <td>1-2 hours</td>
   </tr>
  </table>
 @ul[spaced text](false)
 - Scrum Team
-- Scrum Master
 @ulend
 @snapend
 
@@ -467,18 +463,17 @@
 ### Backlog refinement
 <table>
   <tr>
-    <th>Event</th>
+    <th>Facilitator</th>
     <th>Occurs</th>
     <th>Duration</th>
   </tr>
   <tr>
-    <td>Backlog Refinement</td>
+    <td>Product Owner</td>
     <td>As required</td>
     <td>As required</td>
   </tr>
  </table>
 @ul[spaced text](false)
-- Product Owner
 - Scrum Master
 - Scrum Team representative(s)
 - Whole Scrum Team (optional)
