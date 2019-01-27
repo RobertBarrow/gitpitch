@@ -30,9 +30,9 @@
 
 @snap[west span-55]
 @ul[spaced text]
-- Burndown 
-- Velocity
-- Cumulative flow
+- Burndown ~ measuring progress
+- Velocity ~ measuring predictablity
+- *Cumulative flow* ~ increasing predictability
 @ulend
 @snapend
 
@@ -160,6 +160,38 @@
 }
 -->
 </canvas>
+
+---
+@title[Cone of Uncertainty]
+### Cone of Uncertainty
+<canvas data-chart="line">
+<!-- 
+{
+ "data": {
+  "labels": ["Sprint 1"," Sprint 2","Sprint 3","Sprint 4","Sprint 5","Sprint 6","Sprint 7","Sprint 8","Sprint 9","Sprint 10"],
+  "datasets": [
+   {
+    "data":[2,4,6,8,10,12,14,16,18,20],
+    "label":"High watermark","backgroundColor":"rgba(220,120,120,.8)",
+    "fill": false
+   },
+   {
+    "data":[0,0,0,0,0,0,0,0,0,0,0],
+    "label":"Average","backgroundColor":"rgba(120,120,120,.8)",
+    "fill": false
+   },
+   {
+    "data":[-1,-2,-3,-4,-5,-6,-7,-8,-9,-10],
+    "label":"Low watermark","backgroundColor":"rgba(20,220,220,.8)",
+    "fill": true
+   }
+  ]
+ }, 
+ "options": { "responsive": "true" }
+}
+-->
+</canvas>
+
 
 ---
 @title[Epic Burndown chart]
