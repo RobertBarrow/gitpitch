@@ -132,10 +132,6 @@
 ---
 @title[Scrum Event Schedule]
 
-@snap[north]
-Scrum Event Schedule
-@snapend
-
 <table>
   <tr>
     <th>Event</th>
@@ -144,22 +140,22 @@ Scrum Event Schedule
   </tr>
   <tr>
     <td>Sprint Planning</td>
-    <td>Once at the start of each Sprint</td>
+    <td>At the start of a Sprint</td>
     <td>2-4 hours *</td>
   </tr>
   <tr class="fragment">
     <td>Daily Stand-up</td>
-    <td>Once every day</td>
+    <td>Every day</td>
     <td>15 minutes</td>
   </tr>
   <tr class="fragment">
     <td>Sprint Review</td>
-    <td>Once at the end of each Sprint</td>
+    <td>At the end of each Sprint</td>
     <td>1-2 hours *</td>
   </tr>
   <tr class="fragment">
     <td>Team Retrospective</td>
-    <td>Once at the end of each Sprint *</td>
+    <td>At the end of each Sprint *</td>
     <td>1-2 hours *</td>
   </tr>
    <tr class="fragment">
