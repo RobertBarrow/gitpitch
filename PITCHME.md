@@ -10,7 +10,7 @@
 @size[0.5em]So... what does Rob bring to the table?
 @snapend
 
----?image=assets/images/myAvatar.png&size=80% auto
+---?image=assets/images/myAvatar.png&size=10% auto
 @title[Rob knows...]
 
 @snap[west span-40 fragment]
