@@ -6,6 +6,18 @@
 
 ![](assets/images/myAvatar.png)
 
+@snap[west span-40 fragment]
+@quote[I know Agile](Agile Transformation Manager)
+@snapend
+
+@snap[west span-40 fragment]
+@quote[I know JIRA](JIRA Administrator)
+@snapend
+
+@snap[south span-40 fragment]
+@quote[I know Delivery](Service Delivery Manager)
+@snapend
+
 ---
 @title[Biggest challenges in Software Development]
 @snap[north-west]
