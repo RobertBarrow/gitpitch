@@ -11,8 +11,37 @@
 ### Biggest risk in software development
 
 ---
+@title[Agile Metrics]
+# Agile Metrics
+
+---
 @title[Effort based velocity]
-### Effort based velocity 
+## Velocity 
+
+---
+@title[Story Points Delivered]
+### Story points delivered
+<canvas data-chart="line">
+<!-- 
+{
+ "data": {
+  "labels": ["Sprint 0","Sprint 1"," Sprint 2","Sprint 3","Sprint 4","Sprint 5","Sprint 6","Sprint 7","Sprint 8","Sprint 9","Sprint 10"],
+  "datasets": [
+   {
+    "data":[0,59,61,60,61,58,59,60,58,60,59],
+    "label":"Story points","backgroundColor":"rgba(20,220,220,.8)",
+    "fill": true
+   }
+  ]
+ }, 
+ "options": { "responsive": "true" }
+}
+-->
+</canvas>
+
+---
+@title[Average Velocity]
+### Average Velocity
 <canvas data-chart="line">
 <!-- 
 {
@@ -24,6 +53,27 @@
     "label":"Average Velocity","backgroundColor":"rgba(220,120,120,.8)",
     "fill": false
    },
+   {
+    "data":[0,59,61,60,61,58,59,60,58,60,59],
+    "label":"Story points","backgroundColor":"rgba(20,220,220,.8)",
+    "fill": true
+   }
+  ]
+ }, 
+ "options": { "responsive": "true" }
+}
+-->
+</canvas>
+
+---
+@title[Rolling Average]
+### Rolling Average
+<canvas data-chart="line">
+<!-- 
+{
+ "data": {
+  "labels": ["Sprint 0","Sprint 1"," Sprint 2","Sprint 3","Sprint 4","Sprint 5","Sprint 6","Sprint 7","Sprint 8","Sprint 9","Sprint 10"],
+  "datasets": [
    {
     "data":[0,59,60,60,60.25,59.8,59.67,59.83,59.33,59.33,59],
     "label":"Rolling Average","backgroundColor":"rgba(120,120,120,.8)",
