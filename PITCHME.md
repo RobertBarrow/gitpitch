@@ -13,20 +13,20 @@
 ---?image=assets/images/myAvatar.png&size=10% auto
 @title[Rob knows...]
 
-@snap[west span-40 fragment]
-@quote[Delivering software](27+ years)
+@snap[west span-30 fragment]
+@quote[Delivering software](27 years+)
 @snapend
 
-@snap[north span-40 fragment]
-@quote[Using Scrum](8+ years)
+@snap[north span-30 fragment]
+@quote[Using Scrum](8 years+)
 @snapend
 
-@snap[east span-40 fragment]
-@quote[Coaching Agile Transformation](5+ years)
+@snap[east span-30 fragment]
+@quote[Coaching Agile Transformation](5 years+)
 @snapend
 
-@snap[south span-40 fragment]
-@quote[Product / Service Management](8+ years)
+@snap[south span-30 fragment]
+@quote[Product & Service Management](8 years+)
 @snapend
 
 ---
