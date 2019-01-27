@@ -376,6 +376,55 @@
 <table>
   <tr>
     <th>Event</th>
+    <th>Product Owner</th>
+    <th>Scrum Master</th>
+    <th>Scrum Team</th>
+    <th>Stakeholders</th>
+  </tr>
+  <tr>
+    <td>Sprint Planning</td>
+    <td>A</td>
+    <td>F</td>
+    <td>A</td>
+    <td>N</td>
+  </tr>
+  <tr class="fragment">
+    <td>Daily Stand-up</td>
+    <td>N</td>
+    <td>O</td>
+    <td>A</td>
+    <td>N</td>
+  </tr>
+  <tr class="fragment">
+    <td>Sprint Review</td>
+    <td>F</td>
+    <td>A</td>
+    <td>A</td>
+    <td>A</td>
+  </tr>
+  <tr class="fragment">
+    <td>Team Retrospective</td>
+    <td>N</td>
+    <td>F</td>
+    <td>A</td>
+    <td>N</td>
+  </tr>
+  <tr class="fragment">
+    <td>Backlog Refinement</td>
+    <td>F</td>
+    <td>A</td>
+    <td>O</td>
+    <td>N</td>
+  </tr>
+</table>
+@snapend
+
+---
+@title[Scrum Event Facilitation & Attendees]
+@snap[north-west span-100]
+<table>
+  <tr>
+    <th>Event</th>
     <th>Facilitator</th>
     <th>Attendees</th>
   </tr>
