@@ -13,7 +13,7 @@
 ---
 @title[Rob knows...]
 
-@snap[west span-50 fragment]
+@snap[west span-50]
 @quote[Delivering working software](28 years)
 @snapend
 
@@ -321,7 +321,7 @@
 @snapend
 
 @snap[west span-55]
-@ul[spaced text]
+@ul[spaced text](false)
 - Sprint Planning
 - Daily Stand-up
 - Sprint Review
@@ -383,7 +383,7 @@
  </table>
 
 @snap[west]
-@ul[spaced text]
+@ul[spaced text](false)
 - Product Owner
 - Scrum Master
 - Scrum Team
@@ -407,7 +407,7 @@
  </table>
 
 @snap[west span-55]
-@ul[spaced text]
+@ul[spaced text](false)
 - Scrum Team
 - Scrum Master (optional)
 @ulend
@@ -430,7 +430,7 @@
  </table>
 
 @snap[west]
-@ul[spaced text]
+@ul[spaced text](false)
 - Stakeholders
 - Product Owner
 - Scrum Team
@@ -455,7 +455,7 @@
  </table>
 
 @snap[west]
-@ul[spaced text]
+@ul[spaced text](false)
 - Scrum Team
 - Scrum Master
 @ulend
@@ -478,11 +478,10 @@
  </table>
 
 @snap[west span-55]
-Attendees
-@ul[spaced text]
+@ul[spaced text](false)
 - Product Owner
 - Scrum Master
 - Scrum Team representative(s)
-- *Whole Scrum Team (optional)*
+- Whole Scrum Team (optional)
 @ulend
 @snapend
