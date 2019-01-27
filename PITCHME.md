@@ -383,7 +383,6 @@
  </table>
 
 @snap[west]
-Attendees
 @ul[spaced text]
 - Product Owner
 - Scrum Master
@@ -408,7 +407,6 @@ Attendees
  </table>
 
 @snap[west span-55]
-Attendees
 @ul[spaced text]
 - Scrum Team
 - Scrum Master (optional)
@@ -432,7 +430,6 @@ Attendees
  </table>
 
 @snap[west]
-Attendees
 @ul[spaced text]
 - Stakeholders
 - Product Owner
@@ -458,7 +455,6 @@ Attendees
  </table>
 
 @snap[west]
-Attendees
 @ul[spaced text]
 - Scrum Team
 - Scrum Master
