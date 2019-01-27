@@ -7,26 +7,26 @@
 ![Rob](assets/images/myAvatar.png)
 
 @snap[south span-100 fragment]
-@size[0.5em](High tide:*61*, Average:*59*, Low tide:*58*)
+@size[0.5em]So... what does Rob know?
 @snapend
 
 ---
 @title[Rob knows...]
-## Rob knows ...
+### Rob knows ...
 
-@snap[west span-20 fragment]
+@snap[west span-40 fragment]
 @quote[Software](27+ years)
 @snapend
 
-@snap[north span-20 fragment]
+@snap[north span-40 fragment]
 @quote[Agile Coaching & Transformation](5+ years)
 @snapend
 
-@snap[east span-20 fragment]
+@snap[east span-40 fragment]
 @quote[Product / Service Delivery Manager](8+ years)
 @snapend
 
-@snap[south span-20 fragment]
+@snap[south span-40 fragment]
 @quote[Scrum Master](1 year)
 @snapend
 
