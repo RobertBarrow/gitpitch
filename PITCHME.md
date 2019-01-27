@@ -131,7 +131,7 @@
 
 ---
 @title[Scrum Event Schedule]
-@snap[north span-80]
+@snap[north-west span-80]
 <table>
   <tr>
     <th>Event</th>
@@ -161,6 +161,6 @@
 </table>
 @snapend
 
-@snap[south span-100]
+@snap[south span-100 fragment]
 @size[0.5em](* Based on a two-week Sprint. Note: your mileage may vary!)
 @snapend
