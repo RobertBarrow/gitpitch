@@ -368,7 +368,7 @@
 
 ---
 @title[Attendees]
-## Attendees
+## Facilitators & Attendees
 
 ---
 @title[Sprint Planning event]
@@ -381,11 +381,12 @@
     <th>Duration</th>
   </tr>
   <tr>
-    <td>Scrum master</td>
+    <td>Scrum Master</td>
     <td>At the start of every Sprint</td>
     <td>2-4 hours *</td>
   </tr>
  </table>
+#### Attendees
 @ul[spaced text](false)
 - Product Owner
 - Scrum Team
@@ -408,6 +409,7 @@
     <td>15 minutes *</td>
   </tr>
  </table>
+#### Attendees
 @ul[spaced text](false)
 - Scrum Team
 @ulend
@@ -429,6 +431,7 @@
     <td>1-2 hours</td>
   </tr>
  </table>
+#### Attendees
 @ul[spaced text](false)
 - Stakeholders
 - Scrum Team
@@ -452,6 +455,7 @@
     <td>1-2 hours</td>
   </tr>
  </table>
+#### Attendees
 @ul[spaced text](false)
 - Scrum Team
 @ulend
@@ -473,6 +477,7 @@
     <td>As required</td>
   </tr>
  </table>
+#### Attendees
 @ul[spaced text](false)
 - Scrum Master
 - Scrum Team representative(s)
