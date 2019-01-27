@@ -383,35 +383,35 @@
     <th>Stakeholders</th>
   </tr>
   <tr>
-    <td>Sprint Planning</td>
+    <td>SP</td>
     <td>A</td>
     <td>F</td>
     <td>A</td>
     <td>N</td>
   </tr>
   <tr class="fragment">
-    <td>Daily Stand-up</td>
+    <td>DS</td>
     <td>N</td>
     <td>O</td>
     <td>A</td>
     <td>N</td>
   </tr>
   <tr class="fragment">
-    <td>Sprint Review</td>
+    <td>SR</td>
     <td>F</td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
   </tr>
   <tr class="fragment">
-    <td>Team Retrospective</td>
+    <td>TR</td>
     <td>N</td>
     <td>F</td>
     <td>A</td>
     <td>N</td>
   </tr>
   <tr class="fragment">
-    <td>Backlog Refinement</td>
+    <td>BR</td>
     <td>F</td>
     <td>A</td>
     <td>O</td>
