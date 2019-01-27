@@ -1,16 +1,17 @@
 # Let's Get Started
 
 ---
-
+@title[Introducing Rob]
 ## Introducing Rob
 
 ![](assets/images/myAvatar.png)
 
 ---
-
+@title[Biggest risk in Software Development]
 ### Biggest risk in software development
 
 ---
+@title[Effort based velocity]
 ### Effort based velocity 
 <canvas data-chart="line">
 <!-- 
@@ -41,6 +42,7 @@
 </canvas>
 
 ---
+@title[Value based velocity]
 ### Value based velocity
 <canvas data-chart="line">
 <!-- 
@@ -60,7 +62,8 @@
 </canvas>
 
 ---
-### The "iceburg effect"
+@title[The "iceberg" effect]
+### The "iceberg effect"
 <canvas data-chart="line">
 <!-- 
 {
@@ -83,6 +86,7 @@
 </canvas>
 
 ---
+@title[Rolling Epics]
 ### Rolling Epics
 <canvas data-chart="line">
 <!-- 
@@ -110,7 +114,10 @@
 </canvas>
 
 ---
-### Scrum Events
+@title[Scrum Events]
+@snap[north-west]
+Scrum Events
+@snapend
 
 @snap[west span-55]
 @ul[spaced text]
