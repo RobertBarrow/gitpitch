@@ -428,21 +428,21 @@
 <table>
   <tr>
     <th>Facilitator</th>
-    <th>Occurs</th>
+    <th>Attendees</th>
     <th>Duration</th>
   </tr>
   <tr>
     <td>Product Owner</td>
-    <td>At the end of every Sprint</td>
-    <td>1-2 hours</td>
-  </tr>
- </table>
-#### Attendees
+    <td>
 @ul[spaced text](false)
 - Stakeholders
 - Scrum Team
 - Scrum Master
 @ulend
+    </td>
+    <td>1-2 hours</td>
+  </tr>
+ </table>
 @snapend
 
 ---
