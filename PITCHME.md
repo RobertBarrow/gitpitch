@@ -386,14 +386,14 @@
     <td>Required</td>
     <td>Facilitator</td>
     <td>Required</td>
-    <td>N/A</td>
+    <td></td>
   </tr>
   <tr class="fragment">
     <td>DS</td>
-    <td>N/A</td>
+    <td></td>
     <td>Optional</td>
     <td>Required</td>
-    <td>N/A</td>
+    <td></td>
   </tr>
   <tr class="fragment">
     <td>SR</td>
@@ -404,24 +404,23 @@
   </tr>
   <tr class="fragment">
     <td>TR</td>
-    <td>N/A</td>
+    <td></td>
     <td>Facilitator</td>
     <td>Required</td>
-    <td>N/A</td>
+    <td></td>
   </tr>
   <tr class="fragment">
     <td>BR</td>
     <td>Facilitator</td>
     <td>Required</td>
     <td>Optional</td>
-    <td>N/A</td>
+    <td></td>
   </tr>
 </table>)
 @snapend
 
 @snap[south span-100 fragment]
 @size[0.5em](SP=Sprint Planning, DS=Daily Stand-up, SR=Sprint Review, TR=Team Retrospective, BR=Backlog Refinement)
-@size[0.5em](F=Facilitator, A=Attendee, O=Optional, N/A=Not applicable)
 @snapend
 
 ---
