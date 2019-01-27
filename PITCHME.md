@@ -332,7 +332,7 @@
 
 ---
 @title[Scrum Event Schedule]
-@snap[north-west span-120]
+@snap[north-west span-100]
 <table>
   <tr>
     <th>Event</th>
@@ -341,7 +341,7 @@
   </tr>
   <tr>
     <td>Sprint Planning</td>
-    <td>At the start of a Sprint</td>
+    <td>At the start of every Sprint</td>
     <td>2-4 hours *</td>
   </tr>
   <tr class="fragment">
@@ -351,12 +351,12 @@
   </tr>
   <tr class="fragment">
     <td>Sprint Review</td>
-    <td>At the end of each Sprint</td>
+    <td>At the end of every Sprint</td>
     <td>1-2 hours *</td>
   </tr>
   <tr class="fragment">
     <td>Team Retrospective</td>
-    <td>At the end of each Sprint *</td>
+    <td>At the end of a Sprint *</td>
     <td>1-2 hours *</td>
   </tr>
 </table>
@@ -364,6 +364,12 @@
 
 @snap[south span-100 fragment]
 @size[0.5em](* Based on a two-week Sprint. Note: your mileage may vary!)
+@snapend
+
+---
+@title[Attendees]
+@snap[north-west]
+## Attendees
 @snapend
 
 ---
@@ -377,7 +383,7 @@
   </tr>
   <tr>
     <td>Sprint Planning</td>
-    <td>At the start of a Sprint</td>
+    <td>At the start of every Sprint</td>
     <td>2-4 hours *</td>
   </tr>
  </table>
@@ -424,7 +430,7 @@
   </tr>
   <tr>
     <td>Sprint Review</td>
-    <td>At the end of the Sprint</td>
+    <td>At the end of every Sprint</td>
     <td>1-2 hours</td>
   </tr>
  </table>
@@ -449,7 +455,7 @@
   </tr>
   <tr>
     <td>Team Retrospective</td>
-    <td>At the end of the Sprint</td>
+    <td>At the end of a Sprint</td>
     <td>1-2 hours</td>
   </tr>
  </table>
