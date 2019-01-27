@@ -161,6 +161,10 @@
 -->
 </canvas>
 
+@snap[south span-100 fragment]
+@size[0.5em](High tide:*61*, Average:*59*, Low tide:*58*)
+@snapend
+
 ---
 @title[Cone of Uncertainty]
 ### Cone of Uncertainty
