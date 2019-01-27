@@ -373,7 +373,7 @@
 ---
 @title[Scrum Event Facilitation & Attendees]
 @snap[north-west span-100]
-@size[1em]
+@size[1em](
 <table>
   <tr>
     <th>Event</th>
@@ -417,7 +417,7 @@
     <td>O</td>
     <td>N</td>
   </tr>
-</table>
+</table>)
 @snapend
 
 @snap[south span-100 fragment]
