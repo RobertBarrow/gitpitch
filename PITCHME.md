@@ -368,14 +368,12 @@
 
 ---
 @title[Attendees]
-@snap[north-west]
 ## Attendees
-@snapend
 
 ---
 @title[Sprint Planning event]
-### Sprint planning
 @snap[north-west span-120]
+### Sprint planning
 <table>
   <tr>
     <th>Event</th>
@@ -399,8 +397,8 @@
 
 ---
 @title[Daily Stand-up event]
-### Daily stand-up
 @snap[north-west span-120]
+### Daily stand-up
 <table>
   <tr>
     <th>Event</th>
@@ -423,8 +421,8 @@
 
 ---
 @title[Sprint Review event]
-### Sprint review
 @snap[north-west span-120]
+### Sprint review
 <table>
   <tr>
     <th>Event</th>
@@ -449,8 +447,8 @@
 
 ---
 @title[Team Retrospective event]
-### Team retrospective
 @snap[north-west span-120]
+### Team retrospective
 <table>
   <tr>
     <th>Event</th>
@@ -473,8 +471,8 @@
 
 ---
 @title[Backlog Refinement event]
-### Backlog refinement
 @snap[north-west span-120]
+### Backlog refinement
 <table>
   <tr>
     <th>Event</th>
