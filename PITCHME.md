@@ -383,7 +383,7 @@
   <tr>
     <td>Scrum Master</td>
     <td>At the start of every Sprint</td>
-    <td>2-4 hours *</td>
+    <td>2-4 hours</td>
   </tr>
   <tr>
     <td>Attendees</td>
@@ -394,13 +394,9 @@
 - Product Owner
 - Scrum Team
 @ulend
-</td>
+    </td>
   </tr>
 </table>
-@ul[spaced text](false)
-- Product Owner
-- Scrum Team
-@ulend
 @snapend
 
 ---
@@ -416,7 +412,7 @@
   <tr>
     <td>Scrum Master (optional)</td>
     <td>Every day</td>
-    <td>15 minutes *</td>
+    <td>15 minutes</td>
   </tr>
  </table>
 #### Attendees
