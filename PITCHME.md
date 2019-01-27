@@ -337,7 +337,7 @@
   <tr>
     <th>Event</th>
     <th>Occurs</th>
-    <th>Duration</th>
+    <th>Duration *</th>
   </tr>
   <tr>
     <td>Sprint Planning</td>
@@ -356,7 +356,7 @@
   </tr>
   <tr class="fragment">
     <td>Team Retrospective</td>
-    <td>At the end of any Sprint *</td>
+    <td>At the end of any Sprint</td>
     <td>1-2 hourss</td>
   </tr>
 </table>
@@ -367,8 +367,45 @@
 @snapend
 
 ---
-@title[Attendees]
+@title[Facilitators & Attendees]
 ## Facilitators & Attendees
+
+---
+@title[Scrum Event Facilitation & Attendees]
+@snap[north-west span-100]
+<table>
+  <tr>
+    <th>Event</th>
+    <th>Facilitator</th>
+    <th>Attendees</th>
+  </tr>
+  <tr>
+    <td>Sprint Planning</td>
+    <td>Scrum Master</td>
+    <td>Product Owner, Scrum Team</td>
+  </tr>
+  <tr class="fragment">
+    <td>Daily Stand-up</td>
+    <td>N/A</td>
+    <td>Scrum Team</td>
+  </tr>
+  <tr class="fragment">
+    <td>Sprint Review</td>
+    <td>Product Owner</td>
+    <td>Stakeholders, Scrum Team, Scrum Master</td>
+  </tr>
+  <tr class="fragment">
+    <td>Team Retrospective</td>
+    <td>Scrum Master</td>
+    <td>Scrum Team</td>
+  </tr>
+  <tr class="fragment">
+    <td>Backlog Refinement</td>
+    <td>Product Owner</td>
+    <td>Scrum Master, Scrum Team *</td>
+  </tr>
+</table>
+@snapend
 
 ---
 @title[Sprint Planning event]
