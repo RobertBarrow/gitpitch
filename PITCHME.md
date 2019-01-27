@@ -388,37 +388,37 @@
     <td>Required</td>
     <td></td>
   </tr>
-  <tr class="fragment">
+  <tr>
     <td>DS</td>
     <td></td>
     <td>Optional</td>
     <td>Required</td>
     <td></td>
   </tr>
-  <tr class="fragment">
+  <tr>
     <td>SR</td>
     <td>Facilitator</td>
     <td>Required</td>
     <td>Required</td>
     <td>Attendees</td>
   </tr>
-  <tr class="fragment">
+  <tr>
     <td>TR</td>
     <td></td>
     <td>Facilitator</td>
     <td>Required</td>
     <td></td>
   </tr>
-  <tr class="fragment">
+  <tr>
     <td>BR</td>
     <td>Facilitator</td>
     <td>Required</td>
     <td>Optional</td>
     <td></td>
   </tr>
-</table>)
+</table>
 @snapend
 
-@snap[south span-100 fragment]
+@snap[south span-100]
 @size[0.5em](SP=Sprint Planning, DS=Daily Stand-up, SR=Sprint Review, TR=Team Retrospective, BR=Backlog Refinement)
 @snapend
