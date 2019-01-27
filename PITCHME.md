@@ -133,7 +133,7 @@
 @title[Scrum Event Schedule]
 
 @snap[north]
-### Scrum Event Schedule
+Scrum Event Schedule
 @snapend
 
 <table>
