@@ -53,8 +53,8 @@
 
 @snap[west span-100]
 @ul[spaced text]
-- Burndown ~ measuring progress
-- Velocity ~ measuring predictablity
+- Burndown ~ to measure progress
+- Velocity ~ to provide predictablity
 - *Cumulative flow* ~ increasing predictability
 @ulend
 @snapend
@@ -342,7 +342,7 @@
   <tr>
     <td>Sprint Planning</td>
     <td>At the start of every Sprint</td>
-    <td>2-4 hours *</td>
+    <td>2-4 hours</td>
   </tr>
   <tr class="fragment">
     <td>Daily Stand-up</td>
@@ -352,12 +352,12 @@
   <tr class="fragment">
     <td>Sprint Review</td>
     <td>At the end of every Sprint</td>
-    <td>1-2 hours *</td>
+    <td>1-2 hours</td>
   </tr>
   <tr class="fragment">
     <td>Team Retrospective</td>
-    <td>At the end of a Sprint *</td>
-    <td>1-2 hours *</td>
+    <td>At the end of any Sprint *</td>
+    <td>1-2 hourss</td>
   </tr>
 </table>
 @snapend
@@ -374,6 +374,7 @@
 
 ---
 @title[Sprint Planning event]
+### Sprint planning
 @snap[north-west span-120]
 <table>
   <tr>
@@ -398,6 +399,7 @@
 
 ---
 @title[Daily Stand-up event]
+### Daily stand-up
 @snap[north-west span-120]
 <table>
   <tr>
@@ -421,6 +423,7 @@
 
 ---
 @title[Sprint Review event]
+### Sprint review
 @snap[north-west span-120]
 <table>
   <tr>
@@ -446,6 +449,7 @@
 
 ---
 @title[Team Retrospective event]
+### Team retrospective
 @snap[north-west span-120]
 <table>
   <tr>
@@ -455,7 +459,7 @@
   </tr>
   <tr>
     <td>Team Retrospective</td>
-    <td>At the end of a Sprint</td>
+    <td>At the end of any Sprint</td>
     <td>1-2 hours</td>
   </tr>
  </table>
@@ -469,6 +473,7 @@
 
 ---
 @title[Backlog Refinement event]
+### Backlog refinement
 @snap[north-west span-120]
 <table>
   <tr>
