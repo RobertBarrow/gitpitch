@@ -1,5 +1,6 @@
 # Plug-ins & configuration
 charts : true
+eager-loading : true
 
 # Look-and-Feel
 logo : assets/images/howdens.jpg
