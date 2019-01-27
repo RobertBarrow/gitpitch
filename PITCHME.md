@@ -13,7 +13,7 @@
 ---
 @title[Rob knows...]
 
-@snap[west span-80 fragment]
+@snap[west span-50 fragment]
 @quote[Delivering working software](28 years)
 @snapend
 
