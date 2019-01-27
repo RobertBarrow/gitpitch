@@ -1,10 +1,12 @@
 # Let's Get Started
 
----?image=assets/images/myAvatar.png&size=50% auto
+---
 @title[Introducing Rob]
 ## Introducing Rob
 
-@snap[south span-100 fragment]
+![](assets/images/myAvatar.png)
+
+@snap[south span-80 fragment]
 @size[0.5em]So... what does Rob bring to the table?
 @snapend
 
