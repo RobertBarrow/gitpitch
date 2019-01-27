@@ -172,7 +172,7 @@
 <!-- 
 {
  "data": {
-  "labels": ["Sprint 1"," Sprint 2","Sprint 3","Sprint 4","Sprint 5","Sprint 6","Sprint 7","Sprint 8","Sprint 9","Sprint 10"],
+  "labels": ["Sprint n+1"," Sprint n+2","Sprint n+3","Sprint n+4","Sprint n+5","Sprint n+6","Sprint n+7","Sprint n+8","Sprint n+9","Sprint n+10"],
   "datasets": [
    {
     "data":[2,4,6,8,10,12,14,16,18,20],
