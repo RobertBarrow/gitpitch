@@ -125,7 +125,7 @@
 - Daily Stand-up
 - Sprint Review
 - Retrospective
-- Backlog Refinement
+- *Backlog Refinement*
 @ulend
 @snapend
 
@@ -163,4 +163,124 @@
 
 @snap[south span-100 fragment]
 @size[0.5em](* Based on a two-week Sprint. Note: your mileage may vary!)
+@snapend
+
+---
+@title[Sprint Planning event]
+@snap[north-west span-120]
+<table>
+  <tr>
+    <th>Event</th>
+    <th>Occurs</th>
+    <th>Duration</th>
+  </tr>
+  <tr>
+    <td>Sprint Planning</td>
+    <td>At the start of a Sprint</td>
+    <td>2-4 hours *</td>
+  </tr>
+ </table>
+ ### Attendees
+@snap[west span-55]
+@ul[spaced text]
+- Product Owner
+- Scrum Master
+- Scrum Team
+@ulend
+@snapend
+
+---
+@title[Daily Stand-up event]
+@snap[north-west span-120]
+<table>
+  <tr>
+    <th>Event</th>
+    <th>Occurs</th>
+    <th>Duration</th>
+  </tr>
+  <tr>
+    <td>Daily Stand-up</td>
+    <td>Every day</td>
+    <td>15 minutes *</td>
+  </tr>
+ </table>
+ ### Attendees
+@snap[west span-55]
+@ul[spaced text]
+- Scrum Team
+- *Scrum Master (optional)*
+@ulend
+@snapend
+
+---
+@title[Sprint Review event]
+@snap[north-west span-120]
+<table>
+  <tr>
+    <th>Event</th>
+    <th>Occurs</th>
+    <th>Duration</th>
+  </tr>
+  <tr>
+    <td>Sprint Review</td>
+    <td>At the end of the Sprint</td>
+    <td>1-2 hours</td>
+  </tr>
+ </table>
+ ### Attendees
+@snap[west span-55]
+@ul[spaced text]
+- Stakeholders
+- Product Owner
+- Scrum Team
+- Scrum Master
+@ulend
+@snapend
+
+---
+@title[Team Retrospective event]
+@snap[north-west span-120]
+<table>
+  <tr>
+    <th>Event</th>
+    <th>Occurs</th>
+    <th>Duration</th>
+  </tr>
+  <tr>
+    <td>Team Retrospective</td>
+    <td>At the end of the Sprint</td>
+    <td>1-2 hours</td>
+  </tr>
+ </table>
+ ### Attendees
+@snap[west span-55]
+@ul[spaced text]
+- Scrum Team
+- Scrum Master
+@ulend
+@snapend
+
+---
+@title[Backlog Refinement event]
+@snap[north-west span-120]
+<table>
+  <tr>
+    <th>Event</th>
+    <th>Occurs</th>
+    <th>Duration</th>
+  </tr>
+  <tr>
+    <td>Backlog Refinement</td>
+    <td>As required</td>
+    <td>As required</td>
+  </tr>
+ </table>
+ ### Attendees
+@snap[west span-55]
+@ul[spaced text]
+- Product Owner
+- Scrum Master
+- Scrum Team representative(s)
+- *Whole Scrum Team (optional)*
+@ulend
 @snapend
