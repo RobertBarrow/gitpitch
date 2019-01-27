@@ -128,3 +128,47 @@
 - Backlog Refinement
 @ulend
 @snapend
+
+---
+@title[Scrum Event Schedule]
+
+@snap[north]
+### Scrum Event Schedule
+@snapend
+
+<table>
+  <tr>
+    <th>Event</th>
+    <th>Occurs</th>
+    <th>Duration</th>
+  </tr>
+  <tr>
+    <td>Sprint Planning</td>
+    <td>Once at the start of each Sprint</td>
+    <td>2-4 hours *</td>
+  </tr>
+  <tr class="fragment">
+    <td>Daily Stand-up</td>
+    <td>Once every day</td>
+    <td>15 minutes</td>
+  </tr>
+  <tr class="fragment">
+    <td>Sprint Review</td>
+    <td>Once at the end of each Sprint</td>
+    <td>1-2 hours *</td>
+  </tr>
+  <tr class="fragment">
+    <td>Team Retrospective</td>
+    <td>Once at the end of each Sprint *</td>
+    <td>1-2 hours *</td>
+  </tr>
+   <tr class="fragment">
+    <td>Backlog Refinement</td>
+    <td>Every day *</td>
+    <td>As required *</td>
+  </tr>
+</table>
+
+@snap[south span-100]
+@size[0.5em](* Based on a two-week Sprint ~ but your mileage may vary!)
+@snapend
