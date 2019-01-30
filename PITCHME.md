@@ -362,7 +362,7 @@
 </table>
 @snapend
 
-@snap[south span-100 fragment]
+@snap[south-east span-100 fragment]
 @size[0.5em](* Based on a two-week Sprint. Note: your mileage may vary!)
 @snapend
 
