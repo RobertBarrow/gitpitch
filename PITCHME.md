@@ -341,7 +341,7 @@
   </tr>
   <tr>
     <td>Planning</td>
-    <td>At the start of every Sprint</td>
+    <td>At the start each Sprint</td>
     <td>2-4 hours</td>
   </tr>
   <tr class="fragment">
@@ -351,12 +351,12 @@
   </tr>
   <tr class="fragment">
     <td>Increment Review</td>
-    <td>At the end of every Sprint</td>
+    <td>At the end of each Sprint</td>
     <td>1-2 hours</td>
   </tr>
   <tr class="fragment">
     <td>Team Retrospective</td>
-    <td>At the end of any Sprint</td>
+    <td>Between Sprints</td>
     <td>1-2 hours</td>
   </tr>
 </table>
@@ -375,7 +375,7 @@
 @snap[north-west span-100]
 <table>
   <tr>
-    <th>Event</th>
+    <th>Sprint Event</th>
     <th>Product Owner</th>
     <th>Scrum Master</th>
     <th>Scrum Team</th>
