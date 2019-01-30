@@ -335,29 +335,29 @@
 @snap[north-west span-100]
 <table>
   <tr>
-    <th>Event</th>
+    <th>Sprint Event</th>
     <th>Occurs</th>
     <th>Duration *</th>
   </tr>
   <tr>
-    <td>Sprint Planning</td>
+    <td>Planning</td>
     <td>At the start of every Sprint</td>
     <td>2-4 hours</td>
   </tr>
   <tr class="fragment">
-    <td>Daily Stand-up</td>
+    <td>Daily Scrum</td>
     <td>Every day</td>
     <td>15 minutes</td>
   </tr>
   <tr class="fragment">
-    <td>Sprint Review</td>
+    <td>Increment Review</td>
     <td>At the end of every Sprint</td>
     <td>1-2 hours</td>
   </tr>
   <tr class="fragment">
     <td>Team Retrospective</td>
     <td>At the end of any Sprint</td>
-    <td>1-2 hourss</td>
+    <td>1-2 hours</td>
   </tr>
 </table>
 @snapend
@@ -382,35 +382,35 @@
     <th>Stakeholders</th>
   </tr>
   <tr>
-    <td>SP</td>
-    <td>Required</td>
+    <td>Planning</td>
+    <td>Req'd</td>
     <td>Facilitator</td>
-    <td>Required</td>
+    <td>Req'd</td>
     <td></td>
   </tr>
   <tr>
-    <td>DS</td>
-    <td></td>
+    <td>Daily</td>
     <td>Optional</td>
-    <td>Required</td>
-    <td></td>
+    <td>Optional</td>
+    <td>Req'd</td>
+    <td>Optional</td>
   </tr>
   <tr>
-    <td>SR</td>
+    <td>Review</td>
     <td>Facilitator</td>
-    <td>Required</td>
-    <td>Required</td>
+    <td>Req'd</td>
+    <td>Req'd</td>
     <td>Attendees</td>
   </tr>
   <tr>
-    <td>TR</td>
-    <td></td>
+    <td>Retro</td>
+    <td>Optional</td>
     <td>Facilitator</td>
     <td>Required</td>
     <td></td>
   </tr>
   <tr>
-    <td>BR</td>
+    <td>Backlog</td>
     <td>Facilitator</td>
     <td>Required</td>
     <td>Optional</td>
