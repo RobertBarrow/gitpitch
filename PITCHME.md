@@ -7,6 +7,25 @@
 ![](assets/images/myAvatar.png)
 
 ---
+@snap[west]
+@css[bio-about](Freelance Developer<br>Founder / Maker)
+<br><br><br>
+@fa[terminal fa-3x bio-fa](geek)
+<br><br><br>
+@css[bio-about](OSS Contributor<br>Conference Speaker)
+@snapend
+
+@snap[east bio]
+@css[bio-headline](David Russell)
+<br>
+@css[bio-byline](@fa[github pad-fa] gitpitch @fa[twitter pad-fa])
+<br>
+![](assets/images/myAvatar.png)
+<br>
+@css[bio-tagline](A face made for radio!)
+@snapend
+
+---
 @title[Customize Slide Layout]
 
 @snap[west span-50]
