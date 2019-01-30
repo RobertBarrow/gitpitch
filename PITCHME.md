@@ -8,7 +8,7 @@
 
 ---
 @snap[west]
-@fa[terminal fa-3x bio-fa](Agile/Lean)
+@fa[terminal fa-2x bio-fa](Agile/Lean)
 <br>
 @css[bio-about](Software Developer<br>Project Manager<br>Service Delivery Manager<br>Product Owner<br>Scrum Master<br>Agile Coach)
 @snapend
