@@ -10,7 +10,15 @@
 @snap[west]
 @fa[terminal fa-2x bio-fa](Agile/Lean)
 <br>
-@css[bio-about](Software Developer<br>Project Manager<br>Service Delivery Manager<br>Product Owner<br>Scrum Master<br>Agile Coach)
+@css[bio-about]
+(Software Developer<br>
+Project Manager<br>
+Service Delivery Manager<br>
+Product Owner<br>
+Scrum Master<br>
+Agile Coach<br>
+Agile Transformation Lead<br>
+Agile Transformation Manager<br>)
 @snapend
 
 @snap[east bio]
@@ -20,7 +28,6 @@
 <br>
 ![](assets/images/myAvatar.png)
 <br>
-@css[bio-tagline](Agile Transformation Manager)
 @snapend
 
 ---
