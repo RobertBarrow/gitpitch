@@ -8,21 +8,21 @@
 
 ---
 @snap[west]
-@css[bio-about](Freelance Developer<br>Founder / Maker)
+@css[bio-about](Product Owner<br>Scrum Master)
 <br><br><br>
 @fa[terminal fa-3x bio-fa](geek)
 <br><br><br>
-@css[bio-about](OSS Contributor<br>Conference Speaker)
+@css[bio-about](Agile Transformation Manager<br>Service Delivery Manager)
 @snapend
 
 @snap[east bio]
-@css[bio-headline](David Russell)
+@css[bio-headline](Robert Barrow)
 <br>
-@css[bio-byline](@fa[github pad-fa] gitpitch @fa[twitter pad-fa])
+@css[bio-byline](@fa[github pad-fa]RobertBarrow @fa[twitter pad-fa]SquidVicious_UK)
 <br>
 ![](assets/images/myAvatar.png)
 <br>
-@css[bio-tagline](A face made for radio!)
+@css[bio-tagline](A face for internet radio!)
 @snapend
 
 ---
