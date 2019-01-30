@@ -8,26 +8,25 @@
 
 ---
 @snap[west]
-@fa[terminal fa-2x bio-fa](Agile/Lean)
+@fa[fa-2x bio-fa](Agile/Lean)
 <br>
 @css[bio-about]
-(Software Developer<br>
+Software Developer<br>
 Project Manager<br>
 Service Delivery Manager<br>
 Product Owner<br>
 Scrum Master<br>
 Agile Coach<br>
 Agile Transformation Lead<br>
-Agile Transformation Manager<br>)
+Agile Transformation Manager<br>
 @snapend
 
-@snap[east bio]
+@snap[north-east bio]
 @css[bio-headline](@fa[github pad-fa]RobertBarrow)
 <br>
 @css[bio-byline](@fa[twitter pad-fa]SquidVicious_UK)
 <br>
 ![](assets/images/myAvatar.png)
-<br>
 @snapend
 
 ---
