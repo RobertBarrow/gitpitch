@@ -8,17 +8,17 @@
 
 ---
 @snap[west]
-@css[bio-about](Product Owner<br>Scrum Master)
-<br><br><br>
-@fa[terminal fa-3x bio-fa](geek)
-<br><br><br>
-@css[bio-about](Agile Transformation Manager<br>Service Delivery Manager)
+@css[bio-about](Software Developer<br>Project Manager<br>Service Delivery Manager)
+<br>
+@fa[terminal fa-3x bio-fa](Agile)
+<br>
+@css[bio-about](Product Owner<br>Scrum Master<br>Transformation Manager)
 @snapend
 
 @snap[east bio]
-@css[bio-headline](Robert Barrow)
+@css[bio-headline](@fa[github pad-fa]RobertBarrow)
 <br>
-@css[bio-byline](@fa[github pad-fa]RobertBarrow @fa[twitter pad-fa]SquidVicious_UK)
+@css[bio-byline](@fa[twitter pad-fa]SquidVicious_UK)
 <br>
 ![](assets/images/myAvatar.png)
 <br>
