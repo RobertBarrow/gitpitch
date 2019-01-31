@@ -3,4 +3,4 @@ charts : true
 
 # Look-and-Feel
 logo : assets/images/myAvatar.png
-theme : night
+# theme : night
