@@ -11,6 +11,27 @@
 @snapend
 
 ---
+@snap[west]
+@css[bio-about]
+Software Developer<br>
+Project Manager<br>
+Service Delivery Manager<br>
+Product Owner<br>
+Scrum Master<br>
+Agile Coach<br>
+Agile Transformation Lead<br>
+Agile Transformation Manager<br>
+@snapend
+
+@snap[north-east bio]
+@css[bio-headline](@fa[github pad-fa]RobertBarrow)
+<br>
+@css[bio-byline](@fa[twitter pad-fa]SquidVicious_UK)
+<br>
+![](assets/images/myAvatar.png)
+@snapend
+
+---
 @title[Rob knows...]
 
 @snap[west span-50]
@@ -18,7 +39,7 @@
 @snapend
 
 @snap[north span-100 fragment]
-@quote[Using Lean / Agile ~ inc. Scrum](8 years)
+@quote[Using Lean / Agile methodologies ~ inc. Scrum](8 years)
 @snapend
 
 @snap[east span-50 fragment]
@@ -45,6 +66,32 @@
 @ulend
 @snapend
 
+---?image=assets/images/manifesto_background.jpg
+@title[Agile Manifesto]
+@snap[north span-100]
+@size[0.8em](We are uncovering better ways of developing software by doing it and helping others do it.)
+<br>
+@size[0.8em](Through this work we have come to value:)
+@snapend
+
+@ul[](false)
+- **Individuals & interactions** over processes & tools
+- **Working software** over comprehensive documentation
+- **Customer collaboration** over contract negotiation
+- **Responding to change** over following a plan
+@ulend
+
+@snap[south span-100]
+@size[0.8em](That is, while there is value in the items on the right,)
+@size[0.8em](we value the items on the left more.)
+@snapend
+
+---
+@title[The Iron Triangle]
+@snap[north]
+Inverting the "iron triangle"
+@snapend
+![](assets/images/waterfall-v-agile-iron-triangle-v03.png)
 ---
 @title[Agile Metrics]
 @snap[north-west]
