@@ -3,9 +3,9 @@
 ---?image=assets/images/manifesto_background.jpg
 @title[Agile Manifesto]
 @snap[north span-100]
-@size[1em](We are uncovering better ways of developing software by doing it and helping others do it.)
+@size[0.8em](We are uncovering better ways of developing software by doing it and helping others do it.)
 <br>
-@size[1em](Through this work we have come to value:)
+@size[0.8em](Through this work we have come to value:)
 @snapend
 
 @ul[](false)
@@ -16,8 +16,8 @@
 @ulend
 
 @snap[south span-100]
-@size[1em](That is, while there is value in the items onthe right,)
-@size[1em](we value the items on the left more.)
+@size[0.8em](That is, while there is value in the items on the right,)
+@size[0.8em](we value the items on the left more.)
 @snapend
 
 ---
