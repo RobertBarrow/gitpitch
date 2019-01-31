@@ -2,19 +2,19 @@
 
 ---?image=assets/images/manifesto_background.jpg
 @title[Agile Manifesto]
-@snap[north]
+@snap[north span-100]
 @size[0.5em](We are uncovering better ways of developing software by doing it and helping others do it.)
 @size[0.5em](Through this work we have come to value:)
 @snapend
 
 @ul[](false)
-- **Individuals and interactions** over processes and tools
+- **Individuals & interactions** over processes & tools
 - **Working software** over comprehensive documentation
 - **Customer collaboration** over contract negotiation
 - **Responding to change** over following a plan
 @ulend
 
-@snap[south]
+@snap[south span-100]
 @size[0.5em](That is, while there is value in the items onthe right,)
 @size[0.5em](we value the items on the left more.)
 @snapend
