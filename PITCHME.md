@@ -3,14 +3,6 @@
 ---
 @title[Introducing Rob]
 ## Introducing Rob
-
-![](assets/images/myAvatar.png)
-
-@snap[south span-80 fragment]
-@size[0.5em]So... what does Rob bring to the table?
-@snapend
-
----
 @snap[west]
 @css[bio-about]
 Software Developer<br>
