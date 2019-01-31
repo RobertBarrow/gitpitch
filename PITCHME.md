@@ -476,8 +476,8 @@ Inverting the "iron triangle"
 The three roles in Scrum...
 @snapend
 @snap[west span-100]
-**Product Owner** ~ focused on **VALUE** delivered
-**Delivery Team** ~ focused on **OUTCOMES** achieved
+**Product Owner** ~ focused on **VALUE** delivered<br>
+**Delivery Team** ~ focused on **OUTCOMES** achieved<br>
 **Scrum Master** ~ focused on **CONTINUOUS** improvement
 @snapend
 
