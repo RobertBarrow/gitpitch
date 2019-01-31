@@ -80,7 +80,7 @@ Agile Transformation Manager<br>
 ---
 @title[The Iron Triangle]
 @snap[north]
-Inverting the "iron triangle"
+Invert the "iron triangle"
 @snapend
 ![](assets/images/waterfall-v-agile-iron-triangle-v03.png)
 ---
