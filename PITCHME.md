@@ -22,6 +22,9 @@
 
 ---
 @title[Iron Triangle]
+@snap[north]
+The "iron" triangle
+@snapend
 ![](assets/images/waterfall-v-agile-iron-triangle-v03.png)
 
 ---
