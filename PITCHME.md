@@ -29,8 +29,6 @@ The "iron" triangle
 
 ---
 @snap[west]
-@fa[fa-2x bio-fa](Agile/Lean)
-<br>
 @css[bio-about]
 Software Developer<br>
 Project Manager<br>
