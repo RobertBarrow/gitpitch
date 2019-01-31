@@ -1,7 +1,20 @@
 # Let's Get Started
 
----
+---?image=assets/images/manifesto_background.jpg
+@title[Agile Manifesto]
 
+@ol[](false)
+- **Individuals and interactions** over processes and tools
+- **Working software** over comprehensive documentation
+- **Customer collaboration** over contract negotiation
+- **Responding to change** over following a plan
+@olend
+
+That is, while there is value in the items on
+the right, we value the items on the left more.
+
+---
+@title[Iron Triangle]
 ![](assets/images/waterfall-v-agile-iron-triangle-v03.png)
 
 ---
