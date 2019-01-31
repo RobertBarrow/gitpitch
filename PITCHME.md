@@ -2,7 +2,6 @@
 
 ---
 @title[Introducing Rob]
-## Introducing Rob
 @snap[west]
 @css[bio-about]
 Software Developer<br>
