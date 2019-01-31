@@ -2,9 +2,7 @@
 
 ---
 
-## Introducing Rob
-
-![](assets/images/myAvatar.png)
+![](assets/images/waterfall-v-agile-iron-triangle-v03.png)
 
 ---
 @snap[west]
