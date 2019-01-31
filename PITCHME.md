@@ -44,7 +44,7 @@ Agile Transformation Manager<br>
 ---
 @title[Biggest challenges in Software Development]
 @snap[north-west]
-### Biggest challenges in software development
+### Biggest challenges in any software development
 @snapend
 
 @snap[west span-55]
