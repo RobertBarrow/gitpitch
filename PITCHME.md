@@ -271,7 +271,7 @@ Invert the "iron triangle"
     "label":"Delivered","backgroundColor":"rgba(00,168,107,.8)"
    },
    {
-    "data":[60,59,61,60,61,58,59,60,58,60,59],
+    "data":[0,100,200,300,400,500,600,700,800,900,1000],
     "label":"In progress","backgroundColor":"rgba(120,120,120,.8)"
    },
    {
