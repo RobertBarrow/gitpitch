@@ -99,7 +99,7 @@ Inverting the "iron triangle"
 @snapend
 
 @snap[west span-100]
-@ul[spaced text]
+@ul[spaced text](false)
 - Burndown ~ to measure progress
 - Velocity ~ to provide predictablity
 - *Cumulative flow* ~ increasing predictability
@@ -469,3 +469,12 @@ Inverting the "iron triangle"
 @snap[south span-100]
 @size[0.5em](SP=Sprint Planning, DS=Daily Stand-up, SR=Sprint Review, TR=Team Retrospective, BR=Backlog Refinement)
 @snapend
+
+---
+@title[Focus]
+@ul[](false)
+- Product Owner ~ focused on VALUE
+- Delivery Team ~ focused on OUTCOMES
+- Scrum Master ~ focused on CHANGE
+@ulend
+---
