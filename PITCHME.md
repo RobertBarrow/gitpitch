@@ -48,7 +48,7 @@ Agile Transformation Manager<br>
 @snapend
 
 @snap[west span-55]
-@ul[spaced text]
+@ul[spaced text](false)
 - Time to market
 - Competition (global)
 - Return on investment
