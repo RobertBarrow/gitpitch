@@ -257,6 +257,34 @@ Invert the "iron triangle"
 -->
 </canvas>
 
+---
+@title[Cumulative Flow]
+### Cumulative Flow
+<canvas data-chart="line">
+<!-- 
+{
+ "data": {
+  "labels": ["Sprint 0","Sprint 1"," Sprint 2","Sprint 3","Sprint 4","Sprint 5","Sprint 6","Sprint 7","Sprint 8","Sprint 9","Sprint 10"],
+  "datasets": [
+   {
+    "data":[60,59,61,60,61,58,59,60,58,60,59],
+    "label":"Delivered","backgroundColor":"rgba(220,120,120,.8)"
+   },
+   {
+    "data":[60,59,61,60,61,58,59,60,58,60,59],
+    "label":"In progress","backgroundColor":"rgba(120,120,120,.8)"
+   },
+   {
+    "data":[60,159,261,360,461,558,659,760,858,960,1059],
+    "label":"Backlog","backgroundColor":"rgba(20,220,220,.8)"
+   }
+  ]
+ }, 
+ "options": { "responsive": "true" }
+}
+-->
+</canvas>
+
 
 ---
 @title[Epic Burndown chart]
