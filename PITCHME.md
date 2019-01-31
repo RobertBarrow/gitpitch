@@ -472,9 +472,12 @@ Inverting the "iron triangle"
 
 ---
 @title[Focus]
+@snap[north]
+The three roles in Scrum...
+@snapend
 @ul[](false)
-- Product Owner ~ focused on VALUE
-- Delivery Team ~ focused on OUTCOMES
-- Scrum Master ~ focused on CHANGE
+- **Product Owner** ~ focused on **VALUE** DELIVERED
+- **Delivery Team** ~ focused on **OUTCOMES** ACHIEVED
+- **Scrum Master** ~ focused on **CONTINUOS** IMPROVEMENT
 @ulend
 ---
