@@ -1,32 +1,5 @@
 # Let's Get Started
 
----?image=assets/images/manifesto_background.jpg
-@title[Agile Manifesto]
-@snap[north span-100]
-@size[0.8em](We are uncovering better ways of developing software by doing it and helping others do it.)
-<br>
-@size[0.8em](Through this work we have come to value:)
-@snapend
-
-@ul[](false)
-- **Individuals & interactions** over processes & tools
-- **Working software** over comprehensive documentation
-- **Customer collaboration** over contract negotiation
-- **Responding to change** over following a plan
-@ulend
-
-@snap[south span-100]
-@size[0.8em](That is, while there is value in the items on the right,)
-@size[0.8em](we value the items on the left more.)
-@snapend
-
----
-@title[Iron Triangle]
-@snap[north]
-The "iron" triangle
-@snapend
-![](assets/images/waterfall-v-agile-iron-triangle-v03.png)
-
 ---
 @snap[west]
 @css[bio-about]
@@ -38,6 +11,7 @@ Scrum Master<br>
 Agile Coach<br>
 Agile Transformation Lead<br>
 Agile Transformation Manager<br>
+Agile Delivery Manager<br>
 @snapend
 
 @snap[north-east bio]
