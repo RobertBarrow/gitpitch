@@ -12,6 +12,7 @@ Agile Coach<br>
 Agile Transformation Lead<br>
 Agile Transformation Manager<br>
 Agile Delivery Manager<br>
+Technical Account Lead<br>
 @snapend
 
 @snap[north-east bio]
